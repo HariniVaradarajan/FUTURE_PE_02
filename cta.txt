@@ -1,9 +1,0 @@
-Generate 5 natural call-to-actions for a skincare product ad.
-
-Product: Mamaearth Ubtan Face Wash
-
-Rules:
-- Not pushy
-- Sound like a suggestion
-- Short (1 line each)
-- Fit Instagram Reels tone
