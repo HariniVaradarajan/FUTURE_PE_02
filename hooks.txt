@@ -1,0 +1,15 @@
+You are a high-converting UGC ad copywriter.
+
+Generate 10 scroll-stopping hooks for Instagram Reels.
+
+Product: Mamaearth Ubtan Face Wash  
+Target Audience: College students (18–25) with tan, dull skin, acne  
+Tone: Casual, real, relatable (NOT salesy)
+
+Rules:
+- First-person style
+- Emotion-driven (insecurity → curiosity)
+- Keep each hook under 10 words
+- Make it sound like a real person talking
+
+Output only hooks (no explanation).
